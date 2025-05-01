@@ -1,2 +1,2 @@
-# Game_Of_Life
+# Game Of Life
 Convey's Game of Life Golang implementation
